@@ -2,7 +2,7 @@
     --dark:#19283f;
     --green:#33d1cc;
     --red:#ff3150;
-    --yellow:#ffc400;
+    --yellow:#fff;
     --grey:#eff7fa;
 }
 
@@ -193,10 +193,7 @@ header::after{
     background-color: var(--grey);
 }
 
-.team .title h1{
-    color: var(--yellow);
-    text-transform: capitalize;
-}
+
 
 .team .box h4{
     background-color: var(--green);
