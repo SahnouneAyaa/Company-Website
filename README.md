@@ -1,4 +1,4 @@
-# 🏢 Company Website – Bootstrap
+# Company Website – Bootstrap
 
 A responsive company website built using HTML, CSS and Bootstrap as part of an early learning project in frontend development.
 
